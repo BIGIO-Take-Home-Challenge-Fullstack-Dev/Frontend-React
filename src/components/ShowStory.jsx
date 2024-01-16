@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable no-unused-vars */
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React, { useState, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
@@ -31,7 +33,6 @@ const ShowStory = () => {
   useEffect(() => {
     getStoryById();
     getChapter();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const getChapter = async () => {
@@ -60,6 +61,7 @@ const ShowStory = () => {
                     onChange={(e) => settitle(e.target.value)}
                     placeholder="Title"
                     readOnly
+                    data-testid="title-input"
                   ></input>
                 </div>
               </div>

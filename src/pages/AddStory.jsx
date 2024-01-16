@@ -1,14 +1,13 @@
-import React from 'react'
-import Layout from './Layout'
-import AddStory from '../components/AddStory'
+import React from "react";
+import Layout from "./Layout";
+import AddStory from "../components/AddStory";
 
 const AddingStory = () => {
+  return (
+    <Layout>
+      <AddStory />
+    </Layout>
+  );
+};
 
-    return (
-      <Layout>
-        <AddStory/>
-      </Layout>
-    )
-  }
-  
-  export default AddingStory
+export default AddingStory;

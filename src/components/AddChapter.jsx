@@ -72,9 +72,7 @@ const AddChapter = () => {
           <hr className="my-4 has-background-black" />
           <div className="field is-grouped">
             <div className="control">
-              <button className="button is-success">
-                Save
-              </button>
+              <button className="button is-success">Save</button>
             </div>
             <div>
               <Link onClick={showModal} className="button is-danger">

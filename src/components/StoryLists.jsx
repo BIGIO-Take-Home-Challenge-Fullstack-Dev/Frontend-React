@@ -149,7 +149,6 @@ const StoryLists = () => {
             className="mb-3"
             onSubmit={(e) => {
               e.preventDefault();
-              // Handle search here if needed
             }}
           >
             <div className="field has-addons">

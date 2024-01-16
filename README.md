@@ -1,7 +1,7 @@
 # Story App
 
 ## <a name="introduction"></a> Introduction :
-This is a story application project to save a story and several chapters, this application was created to complete the Take Home Challenge as a condition for applying for a Fullstack Dev position at BiGIO
+This is a story application project to save a story and several chapters, this application was created to complete the Take Home Challenge as a condition for applying for a Fullstack Dev position at BIGIO
 
 ## Table of Contents
 

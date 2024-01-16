@@ -37,9 +37,9 @@ You may list what feature you created, example :
 * `pages`
 
 ## <a name="apk-link"></a> Website URL :
-[Attach the link of your deployed project or youtube link here](https://youtu.be/yEmZDY9ThUA?si=4VfPajbaU7dMByoA)
+[Demo Video Story App](https://youtu.be/yEmZDY9ThUA?si=4VfPajbaU7dMByoA)
 
-
+<hr>
 
 # Getting Started with Create React App
 
